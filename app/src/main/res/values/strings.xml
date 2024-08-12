@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Do Legal</string>
+    <string name="api_key">7d7j6jsj4z4m</string>
+    <string name="jwt_token">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoidmFuZGFuamkifQ.8wBs4Ls3C8GiWbhoAYUv-3Tj8tA8BeTUKbXUf4LCcZY</string>
+    <string name="user_id">vandanji</string>
+
+</resources>

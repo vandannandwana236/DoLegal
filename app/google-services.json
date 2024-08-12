@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "20137570041",
+    "project_id": "do-legal",
+    "storage_bucket": "do-legal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20137570041:android:3df6195ec899f990eafc28",
+        "android_client_info": {
+          "package_name": "com.example.dolegal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1SClH4Osx0Yjez-x3GBuoyAN2KBdqnK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
